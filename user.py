@@ -4,6 +4,7 @@ import random
 # Global varaibles
 global users_list
 class Users:
+    
     """
     Class that generates new instances of users
     """
