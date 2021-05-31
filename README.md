@@ -7,7 +7,7 @@ Lucy Chimoli
 This project is a python application that manages login and signup credentials of a person for various accounts i.e. username and passwords for each account. It also stores the passwords and generates a unique password for a user if they do not want to generate new passwords by themselves
 
 ## Screenshot
-![](image.png)
+![image](https://user-images.githubusercontent.com/79521837/120148313-b224cc80-c1f0-11eb-8276-a295c0d22c97.png)
 
 ## User Stories
 The user would like to.... :
