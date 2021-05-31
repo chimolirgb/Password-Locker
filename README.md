@@ -42,10 +42,10 @@ code . or atom . based on the text editor you have.
 . To run the application, open the cloned file in terminal and run the following commands:
 
 $ chmod +x interface.py
-  $ ./interface.py
+  $ ./main.py
 
   . To run test for the application use the:
-  $ python3 passlock_test.py
+  $ python3 password_test.py
 
   ## Behaviour Driven Development
 
