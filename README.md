@@ -20,14 +20,14 @@ Copy my credentials to the clipboard
 
 # Technologies Used
 Python
-Git
+
 
 # Installation / Setup instruction
 . The application requires the following installations to operate
 . python3.8
 .pyperclip
 . pip
-. Cloning
+# Cloning
 . Open Terminal {Ctrl+Alt+T}
 
 git clone https://github.com/chimolirgb/Password-Locker
@@ -36,10 +36,9 @@ cd Password-Locker
 
 code . or atom . based on the text editor you have.
 
+## 
 
-## Further help
- 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
 
 # License
 MIT License:
