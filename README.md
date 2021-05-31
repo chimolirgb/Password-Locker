@@ -4,8 +4,7 @@
 Lucy Chimoli
 
 # Description
-This is an Angular CLI application that displays quotes, allow the user to input new quote, upvote , downvote and delete the quote.
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
+This project is a python application that manages login and signup credentials of a person for various accounts i.e. username and passwords for each account. It also stores the passwords and generates a unique password for a user if they do not want to generate new passwords by themselves
 
 # Technologies Used
 Python
