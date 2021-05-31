@@ -8,7 +8,7 @@ This is an Angular CLI application that displays quotes, allow the user to input
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
 # Technologies Used
-Angular CLI
+Python
 Git
 
 ## Development server
