@@ -24,9 +24,11 @@ Python
 
 # Installation / Setup instruction
 . The application requires the following installations to operate
-. python3.8
-.pyperclip
-. pip
+python3.8
+
+pyperclip
+
+pip
 # Cloning
 . Open Terminal {Ctrl+Alt+T}
 
